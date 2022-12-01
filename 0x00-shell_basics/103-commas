@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -anpmX --group-directories-first 
+ls -apmv --group-directories-first 
